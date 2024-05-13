@@ -1,4 +1,4 @@
-**Command to create ACR ImagePullSecret**
+*Command to create ACR ImagePullSecret**
 
 kubectl create secret docker-registry <secret-name> \
     --namespace <namespace> \
